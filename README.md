@@ -9,3 +9,6 @@ https://www.sun-sentinel.com/coronavirus/fl-ne-florida-coronavirus-cases-by-the-
 
 # Other Resources
 https://coronavirustechhandbook.com/home
+
+# Future Improvements through wiki
+https://github.com/qtrandev/coronavirus/wiki
