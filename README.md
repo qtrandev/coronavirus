@@ -1,6 +1,9 @@
 # Florida Coronavirus Information
 Wiki of coronavirus information in Florida. Specifically Broward and Miami.
 
+# Florida Department of Health, Division of Disease Control and Health Protection
+[Live map by county][1]
+
 # New York Times Map
 https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 
@@ -16,3 +19,5 @@ https://coronavirustechhandbook.com/home
 
 # Future Improvements through wiki
 https://github.com/qtrandev/coronavirus/wiki
+
+[1]: https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429/
