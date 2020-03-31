@@ -7,6 +7,7 @@ Wiki of coronavirus information in Florida. Specifically Broward and Miami.
 
 # Institute for Health Metrics and Evaluation (IHME): Projection Data
 [Data by state][2]
+![image](https://user-images.githubusercontent.com/1198220/78059081-44181780-7357-11ea-9dbb-cdad98cdfd4c.png)
 
 # New York Times Map
 https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
